@@ -1,0 +1,109 @@
+// Color palette
+$color-page-background: #fafafa;
+$color-surface: #fff;
+$color-text-primary: #292d32;
+$color-text-secondary: #6a7077;
+$color-text-muted: #717780;
+$color-text-strong: #353a40;
+$color-text-meta: #45494e;
+$color-border: #eceef0;
+$color-border-subtle: #e9ecef;
+$color-pagination-border: #e8ebef;
+$color-pagination-text: #555d66;
+$color-pagination-disabled: #c2c8cf;
+$color-pagination-hover-background: #f2f6fc;
+$color-pagination-hover-text: #2768c7;
+$color-pagination-active-background: #edf5ff;
+$color-pagination-active-border: #dceaff;
+$color-pagination-active-text: #1769d2;
+$color-focus: #81b5ff;
+$color-status-active-background: #e2f8ef;
+$color-status-active-text: #15a66b;
+$color-status-inactive-background: #ffedf0;
+$color-status-inactive-text: #f04e69;
+$color-icon: #858b91;
+$color-chip-background: #f0f2f4;
+$color-input-background: #fff;
+$color-input-border: #d9dee4;
+$color-input-placeholder: #90979e;
+$color-error: #f0445e;
+$color-primary: #1684ff;
+$color-primary-hover: #0873e6;
+$color-primary-text: #fff;
+$color-radio: #1684ff;
+
+// Typography
+$font-family-base: Arial, Helvetica, sans-serif;
+$font-size-micro: 10px;
+$font-size-small: 12px;
+$font-size-body: 14px;
+$font-size-card-title: 16px;
+$font-size-section-title: 18px;
+$font-size-page-title: 24px;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+$line-height-tight: 1;
+$line-height-badge: 1.2;
+$line-height-normal: 1.45;
+
+// Spacing scale
+$space-1: 2px;
+$space-2: 4px;
+$space-3: 6px;
+$space-4: 8px;
+$space-5: 10px;
+$space-6: 12px;
+$space-7: 14px;
+$space-8: 16px;
+$space-9: 18px;
+$space-10: 20px;
+$space-11: 22px;
+$space-12: 24px;
+$space-13: 26px;
+$space-14: 28px;
+$space-15: 30px;
+$space-16: 36px;
+$space-17: 38px;
+$space-18: 40px;
+$space-19: 48px;
+$space-20: 56px;
+
+// Layout dimensions
+$page-max-width: 1440px;
+$brand-card-logo-height: 120px;
+$brand-card-identity-height: 62px;
+$brand-logo-max-width: 180px;
+$brand-logo-max-height: 80px;
+$brand-logo-kaspersky-max-width: 170px;
+$brand-logo-kaspersky-max-height: 58px;
+$brand-logo-icon-size: 72px;
+$details-logo-panel-height: 138px;
+$social-panel-height: 52px;
+$social-link-size: 28px;
+$social-icon-size: 16px;
+$keyword-chip-height: 22px;
+$form-control-height: 36px;
+$form-textarea-height: 88px;
+$form-custom-amount-max-width: 310px;
+$form-section-gap: 26px;
+$form-button-min-width: 74px;
+$details-panel-width: 320px;
+
+// Borders, shadows, and motion
+$border-width: 0.0625rem;
+$border-radius-small: 4px;
+$border-radius-card: 6px;
+$border-radius-control: 6px;
+$border-radius-pagination: 10px;
+$shadow-card: 0 2px 4px rgba(29, 38, 48, 0.1);
+$shadow-card-hover: 0 6px 16px rgba(29, 38, 48, 0.12);
+$shadow-pagination: 0 2px 8px rgba(29, 38, 48, 0.06);
+$transition-fast: 120ms ease;
+
+// Responsive breakpoints
+$breakpoint-small-mobile: 380px;
+$breakpoint-mobile: 480px;
+$breakpoint-page-mobile: 520px;
+$breakpoint-tablet: 720px;
+$breakpoint-details-stack: 960px;

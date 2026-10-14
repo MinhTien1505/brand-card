@@ -1,0 +1,43 @@
+export const GIFT_CARD_TEXT = {
+  currencySymbol: '$',
+  phonePrefix: '+65',
+  title: 'Gift information',
+  amountLegend: 'Select gift amount',
+  amountGroup: 'Gift amount',
+  customAmount: 'Custom',
+  customAmountLabel: 'Custom gift amount',
+  customAmountPlaceholder: 'Enter custom amount',
+  deliveryTypeLegend: 'Delivery type',
+  personalDelivery: 'Personal',
+  giftDelivery: 'Send as gift',
+  senderName: 'Sender name',
+  senderNamePlaceholder: 'Enter sender name',
+  recipientName: 'Recipient name',
+  recipientNamePlaceholder: 'Enter recipient name',
+  recipientEmail: 'Recipient email',
+  recipientEmailPlaceholder: 'Enter recipient email',
+  recipientPhone: 'Recipient phone',
+  recipientPhonePlaceholder: 'Enter recipient phone',
+  deliveryTimeLegend: 'Delivery time',
+  immediateDelivery: 'Immediately',
+  customDelivery: 'Custom',
+  deliveryDate: 'Delivery date',
+  period: 'Period',
+  deliveryPeriods: {
+    morning: 'Morning',
+    afternoon: 'Afternoon',
+    evening: 'Evening'
+  },
+  message: 'Gift message',
+  messagePlaceholder: 'Enter gift message',
+  send: 'Send',
+  validation: {
+    amountRequired: 'Please enter a gift amount.',
+    senderNameRequired: 'Please enter sender name.',
+    recipientNameRequired: 'Please enter recipient name.',
+    recipientEmailRequired: 'Please enter recipient email.',
+    recipientPhoneRequired: 'Please enter recipient phone.',
+    deliveryDateRequired: 'Please select a delivery date.',
+    messageRequired: 'Please enter a gift message.'
+  }
+};
